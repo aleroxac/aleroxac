@@ -6,4 +6,3 @@
 - 🤔 I’m looking for help with ...Elastic Stack
 - 💬 Ask me about ...Docker, Linux, Shell Script, Vim
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/oacardoso/) and [E-mail](mailto:acardoso.ti@gmail.com)
-- ⚡ Fun fact: ...I'm a [groker](https://en.wikipedia.org/wiki/Stranger_in_a_Strange_Land#Grok)
