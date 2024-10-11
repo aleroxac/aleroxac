@@ -6,7 +6,7 @@ name: Metrics
 on:
   workflow_dispatch:
   schedule: 
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 3"
   push:
     branches:
       - "master"
@@ -45,7 +45,7 @@ jobs:
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
+          plugin_habits_languages_limit: 10
           plugin_habits_languages_threshold: 0%
 
           plugin_isocalendar: yes
@@ -56,7 +56,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
